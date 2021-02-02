@@ -4,7 +4,7 @@
 
 - 📝 Owner of the [Java Discord](https://join.javadiscord.net)
 
-- 📫 Contact me: **moontm@javadiscord.net**
+- 📫 Contact me: **moontm@javadiscord.net** | Moon™#3424 on Discord
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
