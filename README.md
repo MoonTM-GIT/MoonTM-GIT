@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MoonTM</h1>
 
-- 🌱 Currently learning Python
+- 🌱 Currently learning [Python](https://github.com/topics/python)
 
 - 📝 Owner of the [Java Discord](https://join.javadiscord.net) | [Github](https://github.com/Java-Discord)
 
