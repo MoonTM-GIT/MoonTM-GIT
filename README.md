@@ -6,7 +6,7 @@
 
 - 📫 Contact me: **moontm@javadiscord.net** | Moon™#3424 on [Discord](https://discord.com)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact me:</h3>
 <p align="left">
 <a href="https://twitter.com/benz975" target="blank" color="#FFFFFF"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="benz975" height="30" width="40" /></a>
 <a href="https://discord.gg/x65hqE6" target="blank" color="#FFFFFF"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="x65hqE6" height="30" width="40" /></a>
