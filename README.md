@@ -2,7 +2,7 @@
 
 - 🌱 Currently learning [Python](https://github.com/topics/python)
 
-- 📝 Owner of the [Java Discord](https://join.javadiscord.net) | [Github](https://github.com/Java-Discord)
+- 📝 Owner of the [Java Discord](https://javadiscord.net) | [Github](https://github.com/Java-Discord)
 
 - 📫 Contact me: **moontm@javadiscord.net** | Moon™#3424 on [Discord](https://discord.com)
 
