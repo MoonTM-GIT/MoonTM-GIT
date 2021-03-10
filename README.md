@@ -17,4 +17,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moontm-git&show_icons=true&theme=dark&hide_border=true&locale=en" alt="moontm-git" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moontm-git&theme=dark&hide_border=true" alt="moontm-git" /></p>
+<p><img align="center" src="https://github.com/MoonTM-GIT/github-stats/blob/master/generated/languages.svg" alt="Language-Stats" /></p>
