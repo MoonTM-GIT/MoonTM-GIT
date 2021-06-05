@@ -1,7 +1,5 @@
 <h1 align="center">Hi 👋, I'm MoonTM</h1>
 
-- 🌱 Currently learning [C#](https://docs.microsoft.com/en-us/dotnet/csharp/)
-
 - 📝 Owner of the [Java Discord](https://javadiscord.net) | [Github](https://github.com/Java-Discord)
 
 - 📫 Contact me: **moontm@javadiscord.net** | [Moon™#3424](https://discordapp.com/users/299555811804315648) on [Discord](https://discord.com)
