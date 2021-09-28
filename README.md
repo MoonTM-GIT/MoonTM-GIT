@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm MoonTM</h1>
 
-- 📝 Owner of the [Java Discord](https://javadiscord.net) (https://discord.gg/java | [Github](https://github.com/Java-Discord)
+- 📝 Owner of the [Java Discord](https://javadiscord.net) (https://discord.gg/java | [Github](https://github.com/Java-Discord))
 
 - 📫 Contact me: **moontm@javadiscord.net** | [Moon™#3424](https://discordapp.com/users/299555811804315648) on [Discord](https://discord.com)
 
