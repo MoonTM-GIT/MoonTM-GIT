@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MoonTM</h1>
+<h1 align="center">Hey 👋, I'm MoonTM</h1>
 
 - 📝 Owner of the [Java Discord](https://javadiscord.net) (https://discord.gg/java | [Github](https://github.com/Java-Discord))
 
