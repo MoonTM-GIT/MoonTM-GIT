@@ -1,3 +1,3 @@
-***Currently working on some closed-source stuff outside of GitHub***
+**Hey!**
 
 ![Metrics](/github-metrics.svg)
